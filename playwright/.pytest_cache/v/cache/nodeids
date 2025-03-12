@@ -1,0 +1,19 @@
+[
+  "test_MoreValidations.py::test_UIChecks[chromium]",
+  "test_UIValidation_1.py::test_UIValidationDynamicScript[chromium]",
+  "test_UIValidation_1.py::test_childWindowHandle[chromium]",
+  "test_framework_web_api.py::test_e2e_web_api",
+  "test_framework_web_api.py::test_e2e_web_api[user_credentials0]",
+  "test_framework_web_api.py::test_e2e_web_api[user_credentials1]",
+  "test_framework_web_api.py::test_e2e_web_api_framework[user_credentials0]",
+  "test_framework_web_api.py::test_e2e_web_api_framework[user_credentials1]",
+  "test_network_1.py::test_network[chromium]",
+  "test_network_request.py::test_network_request[chromium]",
+  "test_network_request.py::test_session_storage",
+  "test_network_response.py::test_network[chromium]",
+  "test_palyWrightBasics.py::test_coreLocators[chromium]",
+  "test_palyWrightBasics.py::test_firefoxBrowser",
+  "test_palyWrightBasics.py::test_playwrightBasics",
+  "test_pytest_bdd.py::test__verify_order_success_message_shown_in_details_page[rahulshetty@gmail.com-Iamking@000]",
+  "test_web_api.py::test_e2e_web_api"
+]

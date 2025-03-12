@@ -1,0 +1,7 @@
+{
+  "test_framework_web_api.py::test_e2e_web_api_framework[user_credentials1]": true,
+  "test_framework_web_api.py::test_e2e_web_api[user_credentials1]": true,
+  "test_framework_web_api.py::test_e2e_web_api[user_credentials0]": true,
+  "test_palyWrightBasics.py::test_coreLocators[chromium]": true,
+  "test_pytest_bdd.py::test__verify_order_success_message_shown_in_details_page[rahulshetty@gmail.com-Iamking@000]": true
+}
