@@ -91,18 +91,6 @@ pytest --html=reports/test_report.html --self-contained-html
 
 ---
 
-## 🛠 Contributing  
-
-Want to contribute? Follow these steps:  
-1. **Fork this repository**  
-2. **Create a new feature branch** (`git checkout -b feature-branch`)  
-3. **Commit your changes** (`git commit -m "Add new feature"`)  
-4. **Push to the branch** (`git push origin feature-branch`)  
-5. **Create a Pull Request**  
-
----
-
-
 ### **How to Use This README?**  
 1. Copy this content and paste it into a new **README.md** file in your repository (`playwright-python`).  
 2. Commit the changes and push to GitHub.  
